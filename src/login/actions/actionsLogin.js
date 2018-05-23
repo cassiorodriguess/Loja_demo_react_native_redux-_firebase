@@ -1,12 +1,8 @@
 
-import {Actions} from 'react-native-router-flux';
 
 import lodash from 'lodash';
-
 import firebase from 'firebase';
-
 import B64 from 'base-64';
-
 import {NavigationActions} from 'react-navigation';
 
 import {
